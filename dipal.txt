@@ -1,4 +1,9 @@
+<<<<<<< HEAD
 This is the conflict.
 This is my first commit of today.
 this is my second commit of today.
 This is my third commit of the day.
+=======
+dipal wrote this line
+Something else.
+>>>>>>> 7b004bb41532f54df1020531129e04e927c3f58d
