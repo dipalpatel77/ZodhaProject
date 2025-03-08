@@ -1,1 +1,4 @@
 dipal wrote this line.
+This is my first commit of today.
+this is my second commit of today.
+This is my third commit of the day.
